@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMessenger</string>
+    <string name="text_msg">Введите сообщение</string>
+    <string name="sent_msg">Отправить</string>
+</resources>
